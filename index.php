@@ -16,7 +16,7 @@
 
   <style>
     body{
-            background-image: url(img/money.jpg);
+            background-image: url(money.jpg);
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
